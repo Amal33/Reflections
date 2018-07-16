@@ -1,0 +1,70 @@
+How did viewing a diff between two versions help you spot the bug ?
+
+it was helpfule because it saved me alot of time and effort by speeding the 
+comparing process which helped me to spot the bug faster.
+
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+it can he;p me to back up my files
+and if one copy get lost , bugged , deleted or damaged i don not lose the entire code
+i can save a copy of my code every realese so i can check if there is a bug i should know it is in the new code
+and i can compare the old copy with the new copy to check the modifications
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, 
+vs having versions automatically saved, like Google
+docs does?
+
+  
+cons
+1- i maybe add alote of copies so the history will be clutterd
+2- i may forget to keep a copy and i will not be able to track my changes on the code
+3-google docs may save copies i do not need
+
+
+pros
+
+1-i control when to save as i devide the code into functions or purposes
+2- i can track by the note i write when i make a commit
+ 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others,
+ like Google Docs, treat each file separately?
+
+ 
+
+maybe because on git you can save a code and a programme may have files related with each other
+so when ou change something in one file the other may or may not be effected !!
+
+
+How can you use the commands git log and git diff to view the history of files?
+1-i first go to the directory that the file exists on using CD change directory
+2-use git log to start viewing the commits from the latest one 
+3-press enter or down arrow until i found the required commit
+4-press q to exit 
+5- use git diff id ofrequird commit id of the previous one 
+6-count the - red and the green + for the deleted and added lines 
+
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+
+because i know that i can return to the previous commit with out losing my code and it helps me
+locate where is the bug maybe by comparing the commits after usng git checkout
+and running the commits one by one until i locate the error and use git diff to see what i changed
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+  
+i want to try writing my own codes and creating my repository with android studio
+
