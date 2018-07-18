@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 it creates a .git file to track all the commits 
 so i can create a commit and to tack my history
 
@@ -15,6 +15,10 @@ using git diff --staging
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+مبدئيا هتساعدني لو انا عاوزه مثلا اطور خاصيه معينه منفصله عن الكود بتاعي من غير ما اضره ولو لقيتها تنفع ابقي اشغل النسخه دي
+لو مثلا هغير لغة البرنامج ولسا مش عاوزه اكتب كود الزرار اللي هيعمل تحويل فاعمل برانش واكتبه كله بلغه تانيه وبعدين ف وقت تاني اعمل الزرار
+مثلا لو انا شغاله مع ناس ع نفس الملف وكل واحد مسؤول انه يعمل جزء معين فبيبقي كل واحد عنده نفس النسخه وكل واحد شغال ع برانش معين 
+لو ضبط نعمل لهم كلهم ميرج بقى
 
 How do the diagrams help you visualize the branch structure?
 
