@@ -21,6 +21,7 @@ organized? How would branches help?
 لو ضبط نعمل لهم كلهم ميرج بقى
 
 How do the diagrams help you visualize the branch structure?
+بتساعدني اتخيل شكل اللوج بتاع كله او الكومتس كلها واعرف ايه اللي مش reachable 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
